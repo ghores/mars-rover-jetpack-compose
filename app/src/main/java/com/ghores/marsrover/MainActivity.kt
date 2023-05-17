@@ -7,9 +7,9 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.rememberNavController
 import com.ghores.marsrover.navigation.SetupNavGraph
 import com.ghores.marsrover.ui.theme.MarsRoversTheme
-import com.ghores.marsrover.ui.view.Rover
-import com.ghores.marsrover.ui.view.RoverList
+import dagger.hilt.android.AndroidEntryPoint
 
+@AndroidEntryPoint
 class MainActivity : ComponentActivity() {
 
     private lateinit var navController: NavHostController
