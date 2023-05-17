@@ -1,4 +1,4 @@
-package com.ghores.marsrovers
+package com.ghores.marsrover
 
 import org.junit.Test
 

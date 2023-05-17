@@ -1,4 +1,4 @@
-package com.ghores.marsrovers.ui.theme
+package com.ghores.marsrover.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
